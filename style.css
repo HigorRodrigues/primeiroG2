@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(251, 206, 206);
+    font-size: 25px;
+
+    color: rgb(81, 3, 3);
+
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+header{
+    text-align: center;
+    /* alinhar o texto ao centro */
+    border: 10px dotted rgb(91, 2, 2);
+    /* aplicando borda de espessura 10px, estilo pontilhado,*/
+    padding: 30px;
+}
+
+header h1{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section h1{
+
+}
+
+
+
